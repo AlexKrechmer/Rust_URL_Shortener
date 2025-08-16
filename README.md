@@ -1,6 +1,6 @@
 # Rust URL Shortener
 
-![Rust](/home/alex/Documents/Virtual_Machines/TCM%20Projects/Rust/Rust_URL_Shortener/Images/Rust.png)
+![Rust](Rust.png)
 
 A simple Rust CLI tool to shorten URLs and fetch the original URL. Supports custom code lengths and verbose output.
 
